@@ -1,0 +1,29 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               aaherbil
+tagline:             'Software engineer'
+description:         'Hybris / Aem Senior Consultant  at <a href="http://valtech.fr" target="_blank">Valtech</a>'
+url:                 
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Abdellah Aherbil
+  url:               https://twitter.com/mdo
+  email:             abdellahaherbil@gmail.com
+
+
+github:
+  repo:              https://github.com/aaherbil
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]
