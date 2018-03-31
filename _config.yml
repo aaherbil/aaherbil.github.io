@@ -8,7 +8,7 @@ permalink:           pretty
 title:               aaherbil
 tagline:             'Software engineer'
 description:         'Hybris / Aem Senior Consultant  at <a href="http://valtech.fr" target="_blank">Valtech</a>'
-url:                 http://aaherbil.github.io
+url:                 'http://aaherbil.github.io'
 baseurl:             ''
 paginate:            5
 
