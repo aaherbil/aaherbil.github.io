@@ -7,6 +7,9 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 
 
+
+
+
 ## Contents
 
 - [Usage](#usage)
